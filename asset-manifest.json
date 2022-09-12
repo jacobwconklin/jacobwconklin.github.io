@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.c8ec9eda.css",
-    "main.js": "/static/js/main.67d6df61.js",
+    "main.css": "/static/css/main.98472c02.css",
+    "main.js": "/static/js/main.3dd2b9b6.js",
     "static/js/787.4792b2e1.chunk.js": "/static/js/787.4792b2e1.chunk.js",
-    "static/media/skyMountainBackground.jpg": "/static/media/skyMountainBackground.4b680904649b3d35c117.jpg",
+    "static/media/lizardTessellation.png": "/static/media/lizardTessellation.c05e2a1c57bb5ac4c547.png",
+    "static/media/whosthatpokemon.png": "/static/media/whosthatpokemon.ce9f4310fd429d504d49.png",
+    "static/media/rgbyTessellation700x700.jpg": "/static/media/rgbyTessellation700x700.174667e04467c3d33fec.jpg",
+    "static/media/pokeBall750x750.jpg": "/static/media/pokeBall750x750.f62986e18d43cf7adc77.jpg",
     "index.html": "/index.html",
-    "main.c8ec9eda.css.map": "/static/css/main.c8ec9eda.css.map",
-    "main.67d6df61.js.map": "/static/js/main.67d6df61.js.map",
+    "main.98472c02.css.map": "/static/css/main.98472c02.css.map",
+    "main.3dd2b9b6.js.map": "/static/js/main.3dd2b9b6.js.map",
     "787.4792b2e1.chunk.js.map": "/static/js/787.4792b2e1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8ec9eda.css",
-    "static/js/main.67d6df61.js"
+    "static/css/main.98472c02.css",
+    "static/js/main.3dd2b9b6.js"
   ]
 }
